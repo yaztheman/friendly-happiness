@@ -4,3 +4,6 @@ def test_feature_6():
 
 def test_feature_11():
     assert True
+
+def test_feature_16():
+    assert True
