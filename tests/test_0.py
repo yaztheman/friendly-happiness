@@ -19,3 +19,6 @@ def test_feature_60():
 
 def test_feature_70():
     assert True
+
+def test_feature_15():
+    assert True
