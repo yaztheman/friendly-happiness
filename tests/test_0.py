@@ -13,3 +13,6 @@ def test_feature_45():
 
 def test_feature_50():
     assert True
+
+def test_feature_60():
+    assert True
